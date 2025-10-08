@@ -1,1 +1,1 @@
-# LatticeFlow
+следующие части (training/ и monitor/)
