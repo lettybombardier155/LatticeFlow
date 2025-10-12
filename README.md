@@ -1,1 +1,1 @@
-следующие части (training/ и monitor/)
+training/__init__.py done
