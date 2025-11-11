@@ -2,10 +2,6 @@
 
 
 
-
-
-
-
 """
 LatticeFlow Training Package
 ----------------------------
