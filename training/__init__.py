@@ -4,7 +4,6 @@
 
 
 
-
 """
 LatticeFlow Training Package
 ----------------------------
