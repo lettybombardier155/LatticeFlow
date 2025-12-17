@@ -5,7 +5,6 @@
 
 
 
-
 """
 LatticeFlow Training Package
 ----------------------------
