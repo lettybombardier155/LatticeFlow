@@ -87,7 +87,6 @@
 
 
 
-
 """
 LatticeFlow Training Package
 ----------------------------
